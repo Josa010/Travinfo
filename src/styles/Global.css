@@ -1,0 +1,10 @@
+* {
+	margin: 0px;
+	padding: 0px;
+	box-sizing: border-box;
+	font-size: 16px;
+}
+
+.css-12i7wg6-MuiPaper-root-MuiDrawer-paper {
+	z-index: 0 !important;
+}
